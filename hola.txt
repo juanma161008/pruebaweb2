@@ -1,8 +1,5 @@
 juan es gay 
-<<<<<<< HEAD
 carlos es gay 
 daniel es gay git merge
-=======
 carlos es gay
 roberto el del culo abierto 
->>>>>>> b1627784c0bc195b3d7aef9dab77a30707a632d3
